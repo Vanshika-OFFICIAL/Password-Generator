@@ -2,6 +2,8 @@
 
 A simple and customizable Password Generator built using **HTML**, **CSS**, and **JavaScript**. This tool helps users generate strong, secure passwords with various options like uppercase, lowercase, numbers, and symbols.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://vanshika-official.github.io/Password-Generator/)
+
 ## 🚀 Features
 
 - Generate random and secure passwords
